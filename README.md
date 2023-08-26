@@ -2,7 +2,7 @@
 
 
 ## About Project
-Semua jawaban dari soal SOCS algoprog semester 1 di binus.
+1st Semester SOCS for Algorithm and Programming
 
 
 ## Build With
@@ -11,4 +11,4 @@ Semua jawaban dari soal SOCS algoprog semester 1 di binus.
 
 
 ## License
-no license.
+.
